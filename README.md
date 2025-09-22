@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-My name is **Fauzan Resky**.  
+My name is **Fauzan Resky Abdulloh**.  
 I’m passionate about continuous learning, coding, and exploring new ideas that can make life easier and more efficient.  
 
 ## 🌱 What am I interested in learning?
