@@ -1,19 +1,17 @@
-# Hi there 👋
+# Hello there 👋
 
 ## About Me
 My name is **Fauzan Resky Abdulloh**.  
-I’m passionate about continuous learning, coding, and exploring new ideas that can make life easier and more efficient.  
+It Doesn’t Matter How It’s Done. It Doesn’t Matter What Needs To Be Sacrificed. In This World, Winning Is Everything.
 
 ## 🌱 What am I interested in learning?
 I’m currently interested in learning:
 - Python for scientific computing and automation  
-- Data analysis and visualization  
-- Web development and backend frameworks  
-- Numerical methods and applied mathematics  
+- Data analysis and visualization   
+- Numerical methods and applied mathematics
 
 ## 💻 What am I working on?
 At the moment, I’m working on:
-- Creating small projects in Python to strengthen my programming logic  
 - Practicing numerical methods step by step without relying on coding first  
 - Exploring how to apply computational methods to real-world problems  
 
@@ -21,7 +19,8 @@ At the moment, I’m working on:
 Outside of coding and learning, I really enjoy:
 - Reading and exploring new knowledge  
 - Sharing insights with others  
-- Solving puzzles and logical challenges  
+- Solving puzzles and logical challenges
+- watching many wholesome anime especially romance
 
 ---
 
