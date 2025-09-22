@@ -1,4 +1,5 @@
 # Hello there 👋
+![kurojan](https://github.com/user-attachments/assets/bda2aa08-623e-4ef3-a612-a884534edb95)
 
 ## About Me
 My name is **Fauzan Resky Abdulloh**.  
